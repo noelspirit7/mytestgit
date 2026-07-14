@@ -1,0 +1,4 @@
+
+This is a Git demo file.
+Created by Jacob.
+We are testing, how git functions.
